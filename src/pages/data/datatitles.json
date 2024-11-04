@@ -1,0 +1,431 @@
+{
+    "titles": [
+      {
+        "year": 1920,
+        "title": "Copa de Competencia Jockey Club",
+        "rival": "Belgrano AC",
+        "key_player": "Cándido García",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Copa_de_competencia_jockey_club.png/150px-Copa_de_competencia_jockey_club.png"
+      },
+      {
+        "year": 1920,
+        "title": "Copa de Competencia (Asociación Amateurs)",
+        "rival": "Racing Club",
+        "key_player": "Cándido García",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Copa_de_competencia_jockey_club.png/150px-Copa_de_competencia_jockey_club.png"
+      },
+      {
+        "year": 1925,
+        "title": "Copa de Competencia (Asociación Amateurs)",
+        "rival": "Racing Club",
+        "key_player": "Cesáreo Onzari",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Copa_de_competencia_jockey_club.png/150px-Copa_de_competencia_jockey_club.png"
+      },
+      {
+        "year": 1932,
+        "title": "Primera División Argentina",
+        "rival": "Independiente",
+        "key_player": "Bernabé Ferreyra",
+        "img" : "https://pbs.twimg.com/media/EVwTQM_XsAAgM4K?format=jpg&name=medium"
+      },
+      {
+        "year": 1936,
+        "title": "Campeonato de Primera División",
+        "rival": "San Lorenzo",
+        "key_player": "Bernabé Ferreyra",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/e/e2/Copa_Campeonato.JPG" 
+      },
+      {
+        "year": 1936,
+        "title": "Copa de Oro",
+        "rival": "San Lorenzo",
+        "key_player": "Bernabé Ferreyra"
+      },
+      {
+        "year": 1937,
+        "title": "Primera División Argentina",
+        "rival": "Independiente",
+        "key_player": "José Manuel Moreno",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/e/e2/Copa_Campeonato.JPG"
+        },
+      {
+        "year": 1941,
+        "title": "Primera División Argentina",
+        "rival": "San Lorenzo",
+        "key_player": "José Manuel Moreno",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/e/e2/Copa_Campeonato.JPG"
+      },
+      {
+        "year": 1942,
+        "title": "Primera División Argentina",
+        "rival": "San Lorenzo",
+        "key_player": "Adolfo Pedernera",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/e/e2/Copa_Campeonato.JPG"
+      },
+      {
+        "year": 1945,
+        "title": "Primera División Argentina",
+        "rival": "Boca Juniors",
+        "key_player": "Ángel Labruna",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/e/e2/Copa_Campeonato.JPG"
+      },
+      {
+        "year": 1947,
+        "title": "Primera División Argentina",
+        "rival": "Independiente",
+        "key_player": "Alfredo Di Stéfano",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/e/e2/Copa_Campeonato.JPG"
+      },
+      {
+        "year": 1952,
+        "title": "Primera División Argentina",
+        "rival": "Banfield",
+        "key_player": "Walter Gómez",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/e/e2/Copa_Campeonato.JPG"
+      },
+      {
+        "year": 1953,
+        "title": "Primera División Argentina",
+        "rival": "Boca Juniors",
+        "key_player": "Ángel Labruna",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/e/e2/Copa_Campeonato.JPG"
+      },
+      {
+        "year": 1955,
+        "title": "Primera División Argentina",
+        "rival": "Estudiantes de La Plata",
+        "key_player": "Enrique Omar Sívori",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/e/e2/Copa_Campeonato.JPG"
+      },
+      {
+        "year": 1956,
+        "title": "Primera División Argentina",
+        "rival": "Lanús",
+        "key_player": "Amadeo Carrizo",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/e/e2/Copa_Campeonato.JPG"
+      },
+      {
+        "year": 1957,
+        "title": "Primera División Argentina",
+        "rival": "San Lorenzo",
+        "key_player": "Norberto Menéndez",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/e/e2/Copa_Campeonato.JPG"
+      },
+      {
+        "year": 1975,
+        "title": "Metropolitano",
+        "rival": "Racing Club",
+        "key_player": "Norberto Alonso",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 1975,
+        "title": "Nacional",
+        "rival": "Rosario Central",
+        "key_player": "Norberto Alonso",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 1977,
+        "title": "Metropolitano",
+        "rival": "Independiente",
+        "key_player": "Daniel Passarella",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 1979,
+        "title": "Metropolitano",
+        "rival": "Vélez Sarsfield",
+        "key_player": "Ubaldo Fillol",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 1979,
+        "title": "Nacional",
+        "rival": "Unión de Santa Fe",
+        "key_player": "Leopoldo Luque",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 1980,
+        "title": "Metropolitano",
+        "rival": "Rosario Central",
+        "key_player": "Ramón Díaz",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT58zDT5fDWSHnFFMiujuYKCqXGBo3DD93YTg&s"
+      },
+      {
+        "year": 1981,
+        "title": "Nacional",
+        "rival": "Ferro Carril Oeste",
+        "key_player": "Mario Kempes",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 1986,
+        "title": "Copa Libertadores",
+        "rival": "América de Cali",
+        "key_player": "Antonio Alzamendi",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Copa_Libertadores_-_National_Historical_Museum.jpg/1200px-Copa_Libertadores_-_National_Historical_Museum.jpg"
+      },
+      {
+        "year": 1986,
+        "title": "Copa Intercontinental",
+        "rival": "Steaua Bucarest",
+        "key_player": "Antonio Alzamendi",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX48OhXv6pim2nTDkZg3Uyvh8HK_KrJ5V0R9TiDA7Xhmhq01sBR0oLSXGurGSLZHGNPnQ"
+
+      },
+      {
+        "year": 1986,
+        "title": "Primera División Argentina",
+        "rival": "Boca Juniors",
+        "key_player": "Oscar Ruggeri",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 1987,
+        "title": "Copa Interamericana",
+        "rival": "Alajuelense",
+        "key_player": "Antonio Alzamendi",
+        "img" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSzwyxWBjfNZtE8m0rrRa1PW9DyI17GpSDttWo-Ev_J14k-LyE0qsaBZwwZoKWk75gY-bsfQWJkKA4bWZ5dXYj-ZwiXxRHDx58SwQSpmC8uRN6RslNynva1GpoT7Oh3xFxAkjitbShF0xN/s1600/copa_interam.jpg"
+      },
+      {
+        "year": 1990,
+        "title": "Campeonato de Primera División",
+        "rival": "Boca Juniors",
+        "key_player": "Angel Comizzo",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+      "year": 1991,
+      "title": "Campeonato de Primera División",
+      "rival": "Boca Juniors",
+      "key_player": "Ramon Diaz",
+      "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+    },
+    {
+        "year": 1993,
+        "title": "Campeonato de Primera División",
+        "rival": "Boca Juniors",
+        "key_player": "Ramon Medina Bello",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 1994,
+        "title": "Campeonato de Primera División",
+        "rival": "Boca Juniors",
+        "key_player": "Ariel Ortega",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 1996,
+        "title": "Copa Libertadores",
+        "rival": "América de Cali",
+        "key_player": "Enzo Francescoli",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Copa_Libertadores_-_National_Historical_Museum.jpg/1200px-Copa_Libertadores_-_National_Historical_Museum.jpg"
+      },
+      {
+        "year": 1996,
+        "title": "Torneo Apertura",
+        "rival": "Independiente",
+        "key_player": "Marcelo Salas",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 1997,
+        "title": "Torneo Clausura",
+        "rival": "Colon de Santa Fe",
+        "key_player": "Enzo Francescoli",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 1997,
+        "title": "Supercopa Sudamericana",
+        "rival": "São Paulo",
+        "key_player": "Marcelo Salas",
+        "img" : "https://bocajuniors2016.wordpress.com/wp-content/uploads/2016/02/7b42.jpg"
+      },
+      {
+        "year": 1997,
+        "title": "Torneo Apertura",
+        "rival": "Boca Juniors",
+        "key_player": "Marcelo Salas",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 1999,
+        "title": "Torneo Apertura",
+        "rival": "San Lorenzo",
+        "key_player": "Pablo Aimar",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 2000,
+        "title": "Torneo Clausura",
+        "rival": "Boca Juniors",
+        "key_player": "Javier Saviola",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 2002,
+        "title": "Torneo Clausura",
+        "rival": "Gimnasia y Esgrima La Plata",
+        "key_player": "Ariel Ortega",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 2003,
+        "title": "Torneo Clausura"  ,
+        "rival": "Boca Juniors",
+        "key_player": "Fernando Cavenaghi",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 2004,
+        "title": "Torneo Clausura",
+        "rival": "Boca Juniors",
+        "key_player": "Marcelo Gallardo",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 2008,
+        "title": "Torneo Clausura",
+        "rival": "Boca Juniors",
+        "key_player": "Diego Buonanotte",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 2014,
+        "title": "Torneo Final",
+        "rival": "Boca Juniors",
+        "key_player": "Fernando Cavenaghi",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQQ54phMmBytneRVSX7Zb3icoN5TCwUyoHCA&s"
+      },
+      {
+        "year": 2014,
+        "title": "Copa Sudamericana",
+        "rival": "Atlético Nacional",
+        "key_player": "Leonardo Pisculichi",
+        "img" : "https://i.pinimg.com/736x/5b/8e/e4/5b8ee48fc70fd96d67147d6c59658ef6.jpg"
+      },
+      {
+        "year": 2014,
+        "title": "Copa Campeonato de Primera Division",
+        "rival": "San Lorenzo",
+        "key_player": "German Pezzela",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/7/72/Copa_campeonato_trofeo_1979.png"
+      },
+      {
+        "year": 2015,
+        "title": "Copa Libertadores",
+        "rival": "Tigres UANL",
+        "key_player": "Carlos Sánchez",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Copa_Libertadores_-_National_Historical_Museum.jpg/1200px-Copa_Libertadores_-_National_Historical_Museum.jpg"
+      },
+      {
+        "year": 2015,
+        "title": "Suruga Bank",
+        "rival": "Gamba Osaka",
+        "key_player": "Carlos Sánchez",
+        "img" : "https://i.pinimg.com/originals/56/6b/37/566b37819d36de894298185da2dd7852.png"
+      },
+      {
+        "year": 2015,
+        "title": "Recopa Sudamericana",
+        "rival": "San Lorenzo",
+        "key_player": "Lucas Alario",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBhL-gpT7rjPp7vfCNf7ryw344Y7pzH9X1yw&s"
+      },
+      {
+        "year": 2016,
+        "title": "Recopa Sudamericana",
+        "rival": "Independiente Santa Fe",
+        "key_player": "Lucas Alario",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBhL-gpT7rjPp7vfCNf7ryw344Y7pzH9X1yw&s"
+      },
+      {
+        "year": 2016,
+        "title": "Copa Argentina",
+        "rival": "Rosario Central",
+        "key_player": "Lucas Alario",
+        "img" : "https://www.pagina12.com.ar/fotos/thumb/320/20151021/notas/na28fo01.jpg"
+      },
+      {
+        "year": 2017,
+        "title": "Copa Argentina",
+        "rival": "Atlético Tucumán",
+        "key_player": "Ignacio Scocco",
+        "img" : "https://www.pagina12.com.ar/fotos/thumb/320/20151021/notas/na28fo01.jpg"
+      },
+      {
+        "year": 2018,
+        "title": "Copa Libertadores",
+        "rival": "Boca Juniors",
+        "key_player": "Juan Fernando Quintero",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Copa_Libertadores_-_National_Historical_Museum.jpg/1200px-Copa_Libertadores_-_National_Historical_Museum.jpg"
+      },
+      {
+        "year": 2018,
+        "title": "Supercopa Argentina",
+        "rival": "Boca Juniors",
+        "key_player": "Gonzalo Martinez",
+        "img" : "https://pbs.twimg.com/media/DXr9kT0WsAA3FHX.jpg"
+      },
+      {
+        "year": 2019,
+        "title": "Recopa Sudamericana",
+        "rival": "Atlético Paranaense",
+        "key_player": "Ignacio Fernández",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBhL-gpT7rjPp7vfCNf7ryw344Y7pzH9X1yw&s"
+      },
+      {
+        "year": 2019,
+        "title": "Copa Argentina",
+        "rival": "Rosario Central",
+        "key_player": "Ignacio Scocco",
+        "img" : "https://www.pagina12.com.ar/fotos/thumb/320/20151021/notas/na28fo01.jpg"
+      },
+      {
+        "year": 2019,
+        "title": "Supercopa Argentina",
+        "rival": "Racing Club",
+        "key_player": "Julián Álvarez",
+        "img" : "https://pbs.twimg.com/media/DXr9kT0WsAA3FHX.jpg"
+      },
+      {
+        "year": 2021,
+        "title": "Liga Profesional",
+        "rival": "Racing Club",
+        "key_player": "Julián Álvarez",
+        "img" : "https://acdn.mitiendanube.com/stores/002/753/592/products/tlp1-dd78677ffaaf19055a17040411848228-1024-1024.png"
+      },
+      {
+        "year": 2021,
+        "title": "Trofeo de Campeones",
+        "rival": "Colon de Santa Fe",
+        "key_player": "Julián Álvarez",
+        "img" : "https://media.tycsports.com/files/2022/11/01/500396/trofeo-de-campeones_862x485.webp"
+      },
+      {
+        "year": 2023,
+        "title": "Liga Profesional",
+        "rival": "Talleres de Córdoba",
+        "key_player": "Ignacio Fernández",
+        "img" : "https://acdn.mitiendanube.com/stores/002/753/592/products/tlp1-dd78677ffaaf19055a17040411848228-1024-1024.png"
+      },
+      {
+        "year": 2023,
+        "title": "Trofeo de Campeones",
+        "rival": "Rosario Central",
+        "key_player": "Ignacio Fernández",
+        "img" : "https://media.tycsports.com/files/2022/11/01/500396/trofeo-de-campeones_862x485.webp"
+      },
+      {
+        "year": 2024,
+        "title": "Supercopa Argentina",
+        "rival": "Estudiantes de La Plata",
+        "key_player": "Rodrigo Aliendro",
+        "img" : "https://pbs.twimg.com/media/DXr9kT0WsAA3FHX.jpg"
+      }
+    ]
+  }

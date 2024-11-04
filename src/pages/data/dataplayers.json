@@ -1,0 +1,227 @@
+{
+    "arqueros": [
+      {
+        "nombre_completo": "Franco Armani",
+        "lugar_nacimiento": "Casilda, Argentina",
+        "fecha_nacimiento": "16/10/1986",
+        "numero_camiseta": 1,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1638-armani_70x80270x360.png"
+      },
+      {
+        "nombre_completo": "Conan Ledesma",
+        "lugar_nacimiento": "Pergamino, Argentina",
+        "fecha_nacimiento": "13/02/1993",
+        "numero_camiseta": 25,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1883-ledesma_270x360.png"
+      },
+      {
+        "nombre_completo": "Lucas Lavagnino",
+        "lugar_nacimiento": "Buenos Aires, Argentina",
+        "fecha_nacimiento": "22/08/2004",
+        "numero_camiseta": 37,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1501-lavagnino_270x360.png"
+      }
+    ],
+    "defensores": [
+      {
+        "nombre_completo": "Ramiro Funes Mori",
+        "lugar_nacimiento": "Mendoza, Argentina",
+        "fecha_nacimiento": "05/03/1991",
+        "numero_camiseta": 3,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1841-funesmori_270x360.png"
+      },
+      {
+        "nombre_completo": "Leandro González Pirez",
+        "lugar_nacimiento": "Buenos Aires, Argentina",
+        "fecha_nacimiento": "26/02/1992",
+        "numero_camiseta": 14,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1824-pirez_270x360.png"
+      },
+      {
+        "nombre_completo": "Paulo Díaz",
+        "lugar_nacimiento": "Santa Cruz, Chile",
+        "fecha_nacimiento": "25/08/1994",
+        "numero_camiseta": 17,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1760-diaz_270x360.png"
+      },
+      {
+        "nombre_completo": "Milton Casco",
+        "lugar_nacimiento": "María Grande, Argentina",
+        "fecha_nacimiento": " 11/04/1988",
+        "numero_camiseta": 20,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1230-casco_270x360.png"
+      },
+      {
+        "nombre_completo": "Enzo Díaz",
+        "lugar_nacimiento": "Las Toscas, Argentina",
+        "fecha_nacimiento": "07/12/1995",
+        "numero_camiseta": 13,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1835-enzodiaz_270x360.png"
+      },
+      {
+        "nombre_completo": "Fabricio Bustos",
+        "lugar_nacimiento": "Ucacha, Argentina",
+        "fecha_nacimiento": "28/04/1996",
+        "numero_camiseta": 21,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1886-bustos_270x360.png"
+      },
+      {
+        "nombre_completo": "Federico Gattoni",
+        "lugar_nacimiento": "Buenos Aires, Argentina",
+        "fecha_nacimiento": "16/02/1999",
+        "numero_camiseta": 6,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1877-gattoni_270x360.png"
+      },
+      {
+        "nombre_completo": "Germán Pezzella",
+        "lugar_nacimiento": "Bahía Blanca, Argentina",
+        "fecha_nacimiento": "27/06/1991",
+        "numero_camiseta": 33,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1885-pezella_270x360.png"
+      },
+      {
+        "nombre_completo": "Agustín Sant'Anna",
+        "lugar_nacimiento": "Montevideo, Uruguay",
+        "fecha_nacimiento": "27/09/1997",
+        "numero_camiseta": 27,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1849-santanna_270x360.png"
+      },
+      {
+        "nombre_completo": "Marcos Acuña",
+        "lugar_nacimiento": "Zapala, Argentina",
+        "fecha_nacimiento": "28/10/1991",
+        "numero_camiseta": 24,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1888-acuna_270x360.png"
+      },
+      {
+        "nombre_completo": "Daniel Zabala",
+        "lugar_nacimiento": "William Morris, Argentina",
+        "fecha_nacimiento": "17/01/2003",
+        "numero_camiseta": 22,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1449-zabala_270x360.png"
+      }
+    ],
+    "mediocampistas": [
+      {
+        "nombre_completo": "Rodrigo Villagra",
+        "lugar_nacimiento": "Morteros, Argentina",
+        "fecha_nacimiento": "14/02/2001",
+        "numero_camiseta": 23,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1850-villagra_270x360.png"
+      },
+      {
+        "nombre_completo": "Ignacio Fernández",
+        "lugar_nacimiento": "Castelli, Argentina",
+        "fecha_nacimiento": "12/01/1990",
+        "numero_camiseta": 26,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1254-fernandez_270x360.png"
+      },
+      {
+        "nombre_completo": "Manuel Lanzini",
+        "lugar_nacimiento": "Ituzaingó, Argentina",
+        "fecha_nacimiento": "15/02/1993",
+        "numero_camiseta": 10,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1843-lanzini_270x360.png"
+      },
+      {
+        "nombre_completo": "Rodrigo Aliendro",
+        "lugar_nacimiento": "Merlo, Argentina",
+        "fecha_nacimiento": "16/02/1991",
+        "numero_camiseta": 29,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1830-aliendro_270x360.png"
+      },
+      {
+        "nombre_completo": "Santiago Simón",
+        "lugar_nacimiento": "Jose Carlos Paz, Argentina",
+        "fecha_nacimiento": "13/06/2002",
+        "numero_camiseta": 31,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1352-simon_270x360.png"
+      },
+      {
+        "nombre_completo": "Matías Kranevitter",
+        "lugar_nacimiento": "Tucumán, Argentina",
+        "fecha_nacimiento": "21/05/1993",
+        "numero_camiseta": 5,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1834-kranevitter_270x360.png"
+      },
+      {
+        "nombre_completo": "Claudio Echeverri",
+        "lugar_nacimiento": "Resistencia, Argentina",
+        "fecha_nacimiento": "02/01/2006",
+        "numero_camiseta": 19,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1549-echeverri_270x360.png"
+      },
+      {
+        "nombre_completo": "Gonzalo Martínez",
+        "lugar_nacimiento": "Guaymallén, Argentina",
+        "fecha_nacimiento": "13/06/1993",
+        "numero_camiseta": 18,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/702-martinez_270x360.png"
+      },
+      {
+        "nombre_completo": "Nicolás Fonseca",
+        "lugar_nacimiento": "Napoli, Italia",
+        "fecha_nacimiento": "19/10/1998",
+        "numero_camiseta": 4,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1846-fonseca_270x360.png"
+      },
+      {
+        "nombre_completo": "Franco Mastantuono",
+        "lugar_nacimiento": "Buenos Aires, Argentina",
+        "fecha_nacimiento": "2004-11-19",
+        "numero_camiseta": 30,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1848-mastantuono_270x360.png"
+      }
+    ],
+    "delanteros": [
+      {
+            "nombre_completo": "Maximiliano Meza",
+            "lugar_nacimiento": "Caá Catí, Argentina",
+            "fecha_nacimiento": "15/12/1992",
+            "numero_camiseta": 8,
+            "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1887-meza_270x360.png"
+        },
+      {
+        "nombre_completo": "Miguel Borja",
+        "lugar_nacimiento": "Tierra Alta, Colombia",
+        "fecha_nacimiento": "26/01/1993",
+        "numero_camiseta": 9,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1831-borja_270x360.png"
+      },
+      {
+        "nombre_completo": "Ian Subiabre",
+        "lugar_nacimiento": "Comodoro Rivadavia, Argentina",
+        "fecha_nacimiento": "01/01/2007",
+        "numero_camiseta": 38,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1847-subiabre_270x360.png"
+      },
+      {
+        "nombre_completo": "Pablo Solari",
+        "lugar_nacimiento": "Arizona, Argentina",
+        "fecha_nacimiento": "22/03/2001",
+        "numero_camiseta": 36,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1832-solari_270x360.png"
+      },
+      {
+        "nombre_completo": "Adam Bareiro",
+        "lugar_nacimiento": "Itauguá, Paraguay",
+        "fecha_nacimiento": "26/07/1996",
+        "numero_camiseta": 7,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1884-bareiro_270x360.png"
+      },
+      {
+        "nombre_completo": "Facundo Colidio",
+        "lugar_nacimiento": "Rafaela, Argentina",
+        "fecha_nacimiento": "04/01/2000",
+        "numero_camiseta": 11,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1842-colidio_270x360.png"
+      },
+      {
+        "nombre_completo": "Agustin Ruberto",
+        "lugar_nacimiento": "Buenos Aires, Argentina",
+        "fecha_nacimiento": "14/01/2006",
+        "numero_camiseta": 32,
+        "img" : "https://www.cariverplate.com.ar/imagenes/jugadores/2024-09/1566-ruberto_270x360.png"
+      }
+    ]
+  }

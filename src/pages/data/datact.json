@@ -1,0 +1,56 @@
+[
+        {
+            "name": "Marcelo Gallardo",
+            "birth": "18/01/76",
+            "ocuppation": "Director Tecnico",
+            "img": "https://img.a.transfermarkt.technology/portrait/big/19885-1703279686.png?lm=1"
+        },
+        {
+            "name": "Matias Biscay",
+            "birth": "05/03/73",
+            "ocuppation": "Ayudante de campo",
+            "img": "https://www.footballdatabase.eu/images/photos/players/a_145/145454.jpg"
+        },
+        {
+            "name": "Hernan Bujan",
+            "birth": "05/12/1974",
+            "ocuppation": "Ayudante de campo",
+            "img": "https://www.footballdatabase.eu/images/photos/players/a_91/91092.jpg"
+        },
+        {
+            "name": "Javier Sodero",
+            "birth": "17/07/1964",
+            "ocuppation": "Entrenador de arqueros",
+            "img": "https://tntsports.com.ar/__export/1722912397062/sites/tntsports/img/2024/08/05/sodero.jpg_2121959730.jpg"
+        },
+        {
+            "name": "Pablo Dolce",
+            "birth": "16/06/1973",
+            "ocuppation": "Preparador Fisico",
+            "img": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/XWAKO5M2IBGWHHL7IZC5GUMR74.jpg"
+        },
+        {
+            "name": "Jorge Gordillo",
+            "birth": "27/01/1962",
+            "ocuppation": "Entrenador de juveniles",
+            "img": "data:image/jpeg;base64,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"
+        },
+        {
+            "name": "Javier Alonso",
+            "birth": "19/05/1971",
+            "ocuppation": "Entrenador de juveniles",
+            "img": "https://www.cariverplate.com.ar/imagenes/contenidos/2019-07/15447-javieralonso.jpg"
+        },
+        {
+            "name": "Alejandro Albornoz",
+            "birth": "16/04/1983",
+            "ocuppation": "Analista de video",
+            "img": ""
+        },
+        {
+            "name": "Nahuel Hidalgo",
+            "birth": "25/08/1991",
+            "ocuppation": "Analista de video",
+            "img": "https://pbs.twimg.com/media/DuER75XUUAAbhSl.jpg"
+        }
+    ]
