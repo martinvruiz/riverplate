@@ -21,10 +21,10 @@ export const Titulos = ()=>{
                     ))
                 }
             </select>
-        <section className="flex justify-center flex-wrap w-4/5">
+        <section className="flex flex-col lg:flex-row justify-center items-center flex-wrap w-4/5">
         {
             filteredYear.map((title)=>(
-                <div className="w-2/5 p-3 text-center flex flex-col items-center justify-center mx-6 my-5 border-2 rounded-2xl border-red-600" key={title.title}>
+                <div className="lg:w-2/5 p-3 text-center flex flex-col items-center justify-center mx-6 my-5 border-2 rounded-2xl border-red-600" key={title.title}>
                     <img className="object-contain h-52" src={title.img} alt={title.img} />
                     <h3 className="text-xl font-semibold">{title.title}</h3>
                     <div className="flex justify-center my-2 font-medium">Rival destacado: <p className="mx-1 font-normal">{title.rival}</p></div>
